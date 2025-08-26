@@ -8,6 +8,6 @@ changelog-version-tag = { $fork }/{ $version }
 changelog-button = Обновления
 changelog-button-new-entries = Обновления (!)
 changelog-tab-title-Changelog = Список изменений
-changelog-tab-title-ChangelogOS = Список изменений OpenSpace
+changelog-tab-title-ChangelogOS = OpenSpace
 changelog-tab-title-Admin = Админское
 changelog-tab-title-Maps = Карты
