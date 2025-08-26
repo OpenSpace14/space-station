@@ -34,4 +34,39 @@ Entries:
   id: 1305
   time: '2025-08-26T06:32:35.000000+00:00'
   url: https://github.com/OpenSpace14/space-station/pull/7
+- author: AL-S
+  changes:
+  - message: LobbyState.cs - фикс анимированных фонов в лобби
+    type: Fix
+  id: 2206
+  time: '2025-08-26T14:00:24.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/9
+- author: AL-S
+  changes:
+  - message: Окна можно ломать
+    type: Fix
+  id: 2207
+  time: '2025-08-26T14:00:24.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/9
+- author: AL-S
+  changes:
+  - message: Фикс труб в атмосе
+    type: Fix
+  id: 2208
+  time: '2025-08-26T14:00:24.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/9
+- author: AL-S
+  changes:
+  - message: Фикс светильников
+    type: Fix
+  id: 2209
+  time: '2025-08-26T14:00:24.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/9
+- author: AL-S
+  changes:
+  - message: Кароче фикс туевой кучи ошибок
+    type: Fix
+  id: 2210
+  time: '2025-08-26T14:00:24.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/9
 
