@@ -1,8 +1,6 @@
 - type: soundCollection
   id: RoundEnd
   files:
-  - /Audio/_OS/Announcements/RoundEnd/cisi-cisi.ogg
-  - /Audio/_OS/Announcements/RoundEnd/work.ogg
   - /Audio/_OS/Announcements/RoundEnd/gay.ogg
   - /Audio/_OS/Announcements/RoundEnd/Grib.ogg
   - /Audio/_OS/Announcements/RoundEnd/Grupa.ogg
@@ -12,7 +10,9 @@
   - /Audio/_OS/Announcements/RoundEnd/Opa.ogg
   - /Audio/_OS/Announcements/RoundEnd/Paxnet.ogg
   - /Audio/_OS/Announcements/RoundEnd/Salatgad.ogg
+  - /Audio/_OS/Announcements/RoundEnd/Shampun.ogg
   - /Audio/_OS/Announcements/RoundEnd/Ueeee.ogg
+  - /Audio/_OS/Announcements/RoundEnd/work.ogg
 
 - type: soundCollection
   id: PowerOn
