@@ -83,4 +83,11 @@ Entries:
   id: 3212
   time: '2025-08-27T08:15:20.000000+00:00'
   url: https://github.com/OpenSpace14/space-station/pull/10
+- author: AL-S
+  changes:
+  - message: Новая музыка в лобби
+    type: Add
+  id: 4413
+  time: '2025-08-27T16:20:00.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/12
 
