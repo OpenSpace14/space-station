@@ -69,4 +69,18 @@ Entries:
   id: 2210
   time: '2025-08-26T14:00:24.000000+00:00'
   url: https://github.com/OpenSpace14/space-station/pull/9
+- author: AL-S
+  changes:
+  - message: Новые звуки после конца раунда
+    type: Add
+  id: 3211
+  time: '2025-08-27T08:15:20.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/10
+- author: AL-S
+  changes:
+  - message: Удалил сатрый музыка раунд конец
+    type: Remove
+  id: 3212
+  time: '2025-08-27T08:15:20.000000+00:00'
+  url: https://github.com/OpenSpace14/space-station/pull/10
 
