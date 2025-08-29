@@ -207,24 +207,44 @@
     Phalanximine: 3
 
 - type: reaction
+  id: Ambuzolnotbloodzombie
+  reactants:
+    Dylovene:
+      amount: 2
+    Ammonia:
+      amount: 1
+    Ipecac:
+      amount: 4
+    Tricordrazine:
+      amount: 4
+    Holywater:
+      amount: 6
+  products:
+    Ambuzol: 1
+
+- type: reaction
   id: Ambuzol
   reactants:
     Dylovene:
       amount: 1
-    Ammonia:
-      amount: 1
-    ZombieBlood:
+    Ipecac:
       amount: 2
+    Tricordrazine:
+      amount: 2
+    ZombieBlood:
+      amount: 1
   products:
-    Ambuzol: 4
+    Ambuzol: 5
 
 - type: reaction
   id: AmbuzolPlus
   reactants:
     Ambuzol:
-      amount: 5
+      amount: 10
     Omnizine:
-      amount: 5
+      amount: 10
+    Ichor:
+      amount: 10
   products:
     AmbuzolPlus: 10
 
